@@ -1,0 +1,36 @@
+body {
+    background-color: aquamarine;
+    font-family: fantasy;
+    color: red;
+}
+
+#image1 {
+    height: 80px;
+    width: 100px;
+}
+
+#para {
+    font-size: 25px;
+    color: black;
+}
+
+#para2 {
+    font-size: 25px;
+    color: white;
+}
+
+.test-image{
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 20px;
+    padding: 30px;
+}
+
+h5{
+    background-color: black;
+    border: 2px solid black;
+    border-radius: 20px;
+    color: white;
+    padding: 20px;
+    font-size: 20px;
+}
